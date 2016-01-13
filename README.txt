@@ -1,0 +1,1 @@
+Every time you ned to use a part for a project, copy the part from the masterkit into the project folder and THEN open it in inventor. DO NOT DIRECTLY SOURCE FILES FROM THE MASTERKIT.
